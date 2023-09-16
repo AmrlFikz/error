@@ -23,9 +23,9 @@ echo -e $blue "
 sleep 1.2
 echo -e $red [+] $yellow "••••••••••••••••••••••••••••••••••••••••••" $red [+]
 echo -e $red [-] $yellow "Assalamualaikum wr.wib                    " $red [-]
-echo -e $red [-] $yellow "Script by            : Error303           " $red [-]
+echo -e $red [-] $yellow "Script by            : Amirul           " $red [-]
 echo -e $red [-] $yellow "Created              : 18/3/21            " $red [-]
-echo -e $red [-] $yellow "Error303 Cyber Attacker                   " $red [-]
+echo -e $red [-] $yellow "Amirul Cyber Security                   " $red [-]
 echo -e $red [+] $yellow "••••••••••••••••••••••••••••••••••••••••••" $red [+]
 sleep 1.4
 echo "                   SELAMAT DATANG             " | lolcat
